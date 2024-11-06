@@ -16,7 +16,7 @@ Here’s an overview of the types of projects you’ll find in this repository:
 
 ## Technologies & Tools
 - **Rust**: Mastering ownership, concurrency, and memory management through API interactions and server-side development.
-- **Java**: Focusing on object-oriented principles, design patterns, and larger application structures.
+- **Java**: Focusing on object-oriented principles, design patterns, and small application structures.
 - **Python**: Data manipulation, machine learning (e.g., with Pandas, NumPy), and scripting for automation tasks.
 - **APIs**: Spotify API, RESTful principles, and integration with web services.
   
