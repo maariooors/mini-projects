@@ -1,4 +1,4 @@
-# My Private Projects Repository
+# My Personal Projects Repository
 
 ## About This Repository
 Welcome to my private project repository! This space contains a collection of my personal projects where I experiment with various languages, libraries, and frameworks. Here, I’m focused on building a strong foundation in **Rust**, **Java**, and **Python** while exploring areas like APIs, web development, and backend services.
@@ -12,7 +12,7 @@ Here’s an overview of the types of projects you’ll find in this repository:
   
 - **Java Projects**: A variety of projects in Java covering object-oriented design, algorithms, and basic data processing. Java has been a core part of my studies, and I’m expanding my skills by creating small-scale applications and utilities.
   
-- **Python Projects**: Python scripts and projects that range from data analysis to scripting automation. Python is my go-to language for quick prototyping, data handling, and machine learning explorations.
+- **Python Projects**: Python scripts and projects that range from data analysis to scripting automation. 
 
 ## Technologies & Tools
 - **Rust**: Mastering ownership, concurrency, and memory management through API interactions and server-side development.
@@ -24,9 +24,6 @@ Here’s an overview of the types of projects you’ll find in this repository:
 - **Learn and Experiment**: Develop skills by working on real-world projects using Rust, Java, and Python.
 - **Deepen Backend Knowledge**: Gain hands-on experience with server implementation, API integration, and backend development.
 - **Apply Best Practices**: Practice clean code, modularization, and effective debugging strategies in each language.
-
-## Notes
-Since these projects contain sensitive API keys and experimental code, this repository is private. If you’re interested in specific details or have any questions, feel free to reach out!
 
 ---
 
